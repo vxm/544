@@ -13,3 +13,9 @@ About the geometry:
  Each cube represents one possible board. All of them can be seen in the image plot added to this repo.
 
  This geometry is full of symmetries, and more could be seen on the exploration of the Y (horizontal) axis. Such as; the tree is equal every two vertical (now to the grid) rows. I will try to show this property later on.
+ 
+  IMPORTANT NOTES:
+
+ If you execute the script inside Blender, please reduce the amount of rows and columns as it can take a while to calculate.
+ Even if the calculation is finished, probably your OpenGL scene is going to be slow and problematic.
+ This script starts removing the objects on the scene, so, save before you run it.
