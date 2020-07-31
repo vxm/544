@@ -2,7 +2,7 @@
 
  And there are 2 possible boards with these conditions. Without rotations.
 
- With the same rules, but the dimensions of the grid, being 3x2 and 7 different colours, if we calculate the possibilities then we see there can be only 40362 possible boards.
+ With the same rules, but the dimensions of the grid, being 3x2 and 7 different colours, we would get 40362 possible boards.
 
  I have added to this repository the python script that creates in blender the geometry representing all these possibilities. It translates colours to rotations and eliminates the broken hierarchies.
  
