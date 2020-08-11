@@ -14,6 +14,10 @@ About the geometry:
 
  This geometry is full of symmetries, obviously the Number of colours final rotation, and interestingly each of the colour "Wedges" is simetrical to a rotated plane. And more could be found on the exploration of the Y (horizontal) axis. Such as; the tree is equal every two vertical (now to the grid) rows. I will try to show this property later on.
  
+ 
+ ![3x3x7](3x3x7.png)
+ 
+ 
   IMPORTANT NOTES:
 
  If you execute the script inside Blender, please reduce the amount of rows and columns as it can take a while to calculate.
