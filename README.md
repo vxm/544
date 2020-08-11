@@ -12,7 +12,7 @@ About the geometry:
 
  Each cube represents one possible board. All of them can be seen in the image plot added to this repo.
 
- This geometry is full of symmetries, and more could be seen on the exploration of the Y (horizontal) axis. Such as; the tree is equal every two vertical (now to the grid) rows. I will try to show this property later on.
+ This geometry is full of symmetries, obviously the Number of colours final rotation, and interestingly each of the colour "Wedges" is simetrical to a rotated plane. And more could be found on the exploration of the Y (horizontal) axis. Such as; the tree is equal every two vertical (now to the grid) rows. I will try to show this property later on.
  
   IMPORTANT NOTES:
 
