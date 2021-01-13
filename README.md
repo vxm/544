@@ -6,6 +6,7 @@ Imagine a grid of 8x8, each cell has one of two colours, black and white, and ea
 
  I have added to this repository the python script that creates in Blender the geometry for all the boards with any dimension and colour set. It translates colours to rotations and eliminates the invalid hierarchies.
  
+
 About the geometry:
 
  Each cube represents one possible board. All of them can be seen in the image plot added to this repo.
@@ -16,7 +17,8 @@ About the geometry:
  ![3x3x7](3x3x7.png)
  
  
-  IMPORTANT NOTES:
+  
+  IMPORTANT NOTES:
 
  If you execute the script inside Blender, please reduce the amount of rows and columns as it can take a while to calculate.
  Even if the calculation is finished, probably your OpenGL scene is going to be slow and problematic.
