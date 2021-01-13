@@ -2,7 +2,7 @@ Imagine a grid of 8x8, each cell has one of two colours, black and white, and ea
 
  And there are 2 possible boards with these conditions.
 
- Following these rules with different dimensions of the grid; 3x2 and instead of 2 colours we use 7, then we would find 40362 possible boards instead of 2. You can calculate the script I wrote and added to this repo.
+ Following these rules with different dimensions of the grid; 3x2 and instead of 2 colours we use 7, then we would find 40362 possible boards instead of 2. You can calculate it using the script I wrote and added to this repo.
 
  I have added to this repository the python script that creates in Blender the geometry for all the boards with any dimension and colour set. It translates colours to rotations and eliminates the invalid hierarchies.
  
