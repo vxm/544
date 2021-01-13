@@ -18,7 +18,8 @@ About the geometry:
  
  
   
-  IMPORTANT NOTES:
+
+IMPORTANT NOTES:
 
  If you execute the script inside Blender, please reduce the amount of rows and columns as it can take a while to calculate.
  Even if the calculation is finished, probably your OpenGL scene is going to be slow and problematic.
